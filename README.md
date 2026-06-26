@@ -208,17 +208,3 @@ docker-compose up --build
 API: `http://localhost:8000`  
 Docs: `http://localhost:8000/docs`
 
----
-
-## 💡 Resume Highlights
-
-- ✅ FastAPI with layered architecture (routes → services → crud → models)
-- ✅ JWT authentication + bcrypt password hashing
-- ✅ Role-based access control (Admin / Restaurant Owner / Customer)
-- ✅ Full relational schema with One-to-One, One-to-Many, Many-to-Many
-- ✅ Pagination & query filtering
-- ✅ File uploads (restaurant & menu images)
-- ✅ Swagger / OpenAPI docs auto-generated
-- ✅ Alembic migrations ready
-- ✅ Pytest test suite
-- ✅ Docker Compose setup
